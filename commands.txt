@@ -1,0 +1,4 @@
+1. chmod +x *
+2. pip install telebot pymongo aiohttp psutil
+3. ./install.sh
+
